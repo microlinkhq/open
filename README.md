@@ -1,4 +1,9 @@
-<img align="center" src="https://microlink.io/preview.png"/>
+<h1 align="center">
+  <br>
+  <img src="https://microlink.io/preview.png"/>
+  <br>
+</h1>
+
 
 # microlink.io
 
