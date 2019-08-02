@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://microlink.io/logo-banner.png"/>
+  <img src="https://cdn.microlink.io/logo/banner.png"/>
 </h1>
 
 ## Open an issue
