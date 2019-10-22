@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://cdn.microlink.io/logo/banner.png"/>
-</h1>
+<div align="center">
+  <img src="https://cdn.microlink.io/logo/banner.png" alt="microlink">
+</div>
 
 ## Open an issue
 
